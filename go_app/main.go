@@ -1,7 +1,8 @@
-// create by: Bonnie Zhu
-// create on: May 2023
-
-
+// Copyright (c) 2023 Bonnie Zhu All rights reserved
+//
+// Created by: Bonnie zhu
+// Created on: May 2023
+// This program determines age restrictions
 package main
 
 import (
